@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import './entrypoint.dart';
+import './destini.dart';
 
 void main() => runApp(MaterialApp(
-      home: MyApp(),
+      home: Destini(),
     ));
